@@ -1,0 +1,8 @@
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\bin\Debug\TemplateTimerService.exe.config
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\obj\Debug\TemplateTimerService.csprojResolveAssemblyReference.cache
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\bin\Debug\TemplateTimerService.exe
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\bin\Debug\TemplateTimerService.pdb
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\bin\Debug\Renci.SshNet.dll
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\bin\Debug\Renci.SshNet.xml
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\obj\Debug\TemplateTimerService.exe
+c:\users\sovannarith\documents\visual studio 2015\Projects\TemplateTimerService\TemplateTimerService\obj\Debug\TemplateTimerService.pdb
